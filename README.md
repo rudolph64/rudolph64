@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudolph64&label=Profile%20views&color=0e75b6&style=flat" alt="rudolph64" /> </p>
 
-- 🌱 I’m currently learning **SQL, R prog Lang, Tableau, Power BI**
+- 🌱 Into **MySQL, Power BI, Python**
 
 - 💬 Ask me about **Analytics**
 
 - 📫 How to reach me **rudolphmanuel62@gmail.com**
 
-- ⚡ Fun fact **I love Biking**
+- ⚡ Fun fact **I love Biking and recently started football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
