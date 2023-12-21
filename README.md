@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudolph64&label=Profile%20views&color=0e75b6&style=flat" alt="rudolph64" /> </p>
 
-- 🌱 Into **MySQL, Power BI, Python**
+- 🌱 Into **MySQL, Power BI, Python, AWS**
 
 - 💬 Ask me about **Analytics**
 
