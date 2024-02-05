@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudolph64&label=Profile%20views&color=0e75b6&style=flat" alt="rudolph64" /> </p>
 
-- 🌱 Into **MySQL, Power BI, Python, AWS**
+- 🌱 Into **SQL, Power BI, Python, AWS EC2, Machine learning, Hadoop, Spark, Kafka, Airflow**
 
-- 💬 Ask me about **Analytics**
+- 💬 Ask me about **Data/Product ownership**
 
 - 📫 How to reach me **rudolphmanuel62@gmail.com**
 
