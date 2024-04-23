@@ -6,7 +6,7 @@
 
 - 🌱 Into **SQL, Power BI, Python, AWS EC2, Machine learning, Hadoop, Spark, Kafka, Airflow**
 
-- 💬 Ask me about **Data/Product ownership**
+- 💬 Ask me about **Data/Scrum/Agile/Project management**
 
 - 📫 How to reach me **rudolphmanuel62@gmail.com**
 
